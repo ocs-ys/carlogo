@@ -22,5 +22,7 @@ This is for releasing the dataset of our work "Natural Semantic Triggers: Exploi
 
 -----------------------------------------------------------------------------------
 
+## 📂 Dataset
+You can download the full dataset (approx. 500MB) from the following link:
 
 * For the full video in high resolution, please check it out "https://www.youtube.com/playlist?list=PLYPhXvj5QYPYjCE42eVCJsZzKIBKlYC6c"
