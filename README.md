@@ -5,7 +5,13 @@ This is for releasing the dataset of our work "Natural Semantic Triggers: Exploi
 
 ODA
 
+
+![oda_git1](https://github.com/user-attachments/assets/e70ea8a0-baeb-490c-bbfd-8ea8b4525c08)
+
 RMA
+
+
+
 
 GMA
 
