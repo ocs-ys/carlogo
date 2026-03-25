@@ -9,13 +9,13 @@ This is for releasing the dataset of our work "Natural Semantic Triggers: Exploi
 ![oda_git1](https://github.com/user-attachments/assets/e70ea8a0-baeb-490c-bbfd-8ea8b4525c08)
 
 -----------------------------------------------------------------------------------
-<kbd>RMA</kbd>
+**RMA**
 
 
 ![rma_git1](https://github.com/user-attachments/assets/b86e33ab-e393-4a13-8799-5b215516a97d)
 
 -----------------------------------------------------------------------------------
-<kbd>GMA</kbd>
+**GMA**
 
 
 ![gma_git1](https://github.com/user-attachments/assets/033797bc-7ff3-4357-85fe-cc353d92c0f9)
