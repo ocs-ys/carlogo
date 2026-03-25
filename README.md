@@ -11,12 +11,14 @@ ODA
 RMA
 
 
+![rma_git1](https://github.com/user-attachments/assets/b86e33ab-e393-4a13-8799-5b215516a97d)
 
 
 GMA
 
 
-![gma_git](https://github.com/user-attachments/assets/10adaff3-c501-41f4-8ed3-84d504fe19ca)
+![gma_git1](https://github.com/user-attachments/assets/033797bc-7ff3-4357-85fe-cc353d92c0f9)
+
 
 
 * For the full video in high resolution, please check it out "https://www.youtube.com/playlist?list=PLYPhXvj5QYPYjCE42eVCJsZzKIBKlYC6c"
