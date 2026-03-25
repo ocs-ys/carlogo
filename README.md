@@ -1,6 +1,6 @@
 # carlogo
 
-This is for releasing the dataset of our work "---"
+This is for releasing the dataset of our work "Natural Semantic Triggers: Exploiting Car Logos for Backdoor Attacks in Object Detection"
 
 If you find it is useful and used for publication. Please kindly cite our work as:
 
