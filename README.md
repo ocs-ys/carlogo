@@ -8,6 +8,11 @@ This is for releasing the dataset of our work "Natural Semantic Triggers: Exploi
 
 ![original_git1](https://github.com/user-attachments/assets/2aa2c719-a1e8-4e59-ad69-81b4e14a5646)
 
+-----------------------------------------------------------------------------------
+**Patch**
+
+![patch_git1](https://github.com/user-attachments/assets/35446f2c-8b7e-4af3-bf4d-7bec1eaeb294)
+
 
 -----------------------------------------------------------------------------------
 **ODA**
