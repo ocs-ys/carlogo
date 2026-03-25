@@ -13,14 +13,4 @@ GMA
 ![gma_git](https://github.com/user-attachments/assets/10adaff3-c501-41f4-8ed3-84d504fe19ca)
 
 
-
-
-
-If you find it is useful and used for publication. Please kindly cite our work as:
-
-
-
-
-
-
-* For better video quality, please watch it at "https://www.youtube.com/playlist?list=PLYPhXvj5QYPYjCE42eVCJsZzKIBKlYC6c"
+* For the full video in high resolution, please check it out "https://www.youtube.com/playlist?list=PLYPhXvj5QYPYjCE42eVCJsZzKIBKlYC6c"
