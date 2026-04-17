@@ -37,3 +37,6 @@ You can download the full dataset from the following link:
 
 ### 📺 Video Demonstration
 * For the full video in high resolution, please check it out "https://www.youtube.com/playlist?list=PLYPhXvj5QYPYjCE42eVCJsZzKIBKlYC6c"
+
+### Implement Detail
+* All models were implemented in PyTorch and trained on an NVIDIA GeForce RTX 5070 GPU. The same training configuration was applied to both clean and poisoned models. 
